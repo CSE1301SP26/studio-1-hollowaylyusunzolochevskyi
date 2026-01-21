@@ -15,5 +15,4 @@ public class Average {
         System.out.println("The average of "+n1+" and "+n2+" is "+average);
 
     }
-
 }
